@@ -1,21 +1,22 @@
+# Dutch Rent Prediction
+
 This project aims to predict rental prices in the Netherlands using a stacked ensemble model comprising k-Nearest Neighbors (k-NN), Light Gradient Boosting Machine (LightGBM), and Random Forest algorithms, with a final estimator of Random Forest.
 
-Table of Contents
+## Table of Contents
 
--Project Overview
-
--Installation
-
--Usage
-
--Model Architecture
+- [Project Overview](#project-overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model Architecture](#model-architecture)
 
 
 
-Project Overview
+
+## Project Overview
 
 Accurately predicting rental prices is crucial for various stakeholders in the real estate market. This project leverages machine learning techniques to forecast rental prices based on available data. The ensemble approach combines the strengths of multiple algorithms to enhance prediction accuracy.
-Installation
+
+## Installation
 
 To set up the project locally, follow these steps:
 
@@ -33,7 +34,7 @@ Ensure you have Poetry installed. Then, run:
 
     This command will create a virtual environment and install all required dependencies as specified in pyproject.toml.
 
-Usage
+## Usage
 
 Activate the virtual environment:
 
@@ -59,7 +60,7 @@ Use the trained model to make predictions on new data:
 
 Replace new_data.csv with your input data file and predictions.csv with the desired output file name.
 
-Model Architecture
+## Model Architecture
 
 The ensemble model consists of the following components:
 
