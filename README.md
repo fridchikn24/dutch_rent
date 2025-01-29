@@ -1,12 +1,12 @@
 This project aims to predict rental prices in the Netherlands using a stacked ensemble model comprising k-Nearest Neighbors (k-NN), Light Gradient Boosting Machine (LightGBM), and Random Forest algorithms, with a final estimator of Random Forest.
 Table of Contents
 
-    Project Overview
-    Installation
-    Usage
-    Model Architecture
-    Contributing
-    License
+Project Overview
+Installation
+Usage
+Model Architecture
+
+
 
 Project Overview
 
