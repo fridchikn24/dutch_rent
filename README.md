@@ -2,8 +2,11 @@ This project aims to predict rental prices in the Netherlands using a stacked en
 Table of Contents
 
 Project Overview
+
 Installation
+
 Usage
+
 Model Architecture
 
 
