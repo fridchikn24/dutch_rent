@@ -17,9 +17,9 @@ To set up the project locally, follow these steps:
 
     Clone the repository:
 
-git clone https://github.com/fridchikn24/dutch_rent.git
+        git clone https://github.com/fridchikn24/dutch_rent.git
 
-cd dutch_rent
+        cd dutch_rent
 
 Install dependencies:
 
