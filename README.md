@@ -31,9 +31,9 @@ Ensure you have Poetry installed. Then, run:
 
 Usage
 
-    Activate the virtual environment:
+Activate the virtual environment:
 
-poetry shell
+        poetry shell
 
 Prepare the data:
 
@@ -43,7 +43,7 @@ Train the model:
 
 Execute the training script:
 
-python src/train_model.py
+    python src/train_model.py
 
 This script will train the ensemble model and save the trained model to the specified directory.
 
@@ -53,7 +53,7 @@ Use the trained model to make predictions on new data:
 
     python src/predict.py --input new_data.csv --output predictions.csv
 
-    Replace new_data.csv with your input data file and predictions.csv with the desired output file name.
+Replace new_data.csv with your input data file and predictions.csv with the desired output file name.
 
 Model Architecture
 
